@@ -34,7 +34,7 @@ usage()
 {
   cat <<EOM
 Usage: $name repository[:refspec]...
-Check each REFSPEC (default master) each REPOSITORY for untagged changes
+Check each REFSPEC (default master) in each REPOSITORY for untagged changes
 
 All untagged changes are aggregated and output to stdout.
 EOM
