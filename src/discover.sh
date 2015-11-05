@@ -1,5 +1,5 @@
 #!/bin/bash
-# Send e-mail reminder for changes staged for release
+# Generate summary of features staged for release
 #
 #  Copyright (C) 2015 LoVullo Associates, Inc.
 #
